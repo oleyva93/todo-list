@@ -1,0 +1,26 @@
+.app {
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  justify-items: center;
+  width: 100%;
+}
+
+
+.input-section {
+  display: flex;
+  gap: 15px;
+}
+
+.list {
+  list-style-type: none;
+  display: grid;
+  gap: 16px;
+}
+
+.list-item {
+  display: flex;
+  gap: 18px;
+  align-items: center;
+  justify-content: space-between;
+}
